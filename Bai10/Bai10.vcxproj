@@ -170,11 +170,29 @@
     <Image Include="..\..\..\images\eraser.ico" />
     <Image Include="..\..\..\images\pencil.ico" />
     <Image Include="Bai10.ico" />
+    <Image Include="images\black.ico" />
+    <Image Include="images\blue.ico" />
     <Image Include="images\color_picker.ico" />
+    <Image Include="images\edticolor.ico" />
+    <Image Include="images\elipse.ico" />
     <Image Include="images\eraser.ico" />
     <Image Include="images\fillcolor.ico" />
+    <Image Include="images\five_star.ico" />
+    <Image Include="images\four_star.ico" />
+    <Image Include="images\gray.ico" />
+    <Image Include="images\green.ico" />
+    <Image Include="images\icon1.ico" />
+    <Image Include="images\line.ico" />
+    <Image Include="images\orange.ico" />
     <Image Include="images\paintapp.ico" />
     <Image Include="images\pencil.ico" />
+    <Image Include="images\pink.ico" />
+    <Image Include="images\purple.ico" />
+    <Image Include="images\rectangle.ico" />
+    <Image Include="images\red.ico" />
+    <Image Include="images\triangle.ico" />
+    <Image Include="images\white.ico" />
+    <Image Include="images\yellow.ico" />
     <Image Include="small.ico" />
   </ItemGroup>
   <ItemGroup>

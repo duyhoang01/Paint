@@ -75,6 +75,60 @@
     <Image Include="images\paintapp.ico">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="images\icon1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\line.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\triangle.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\rectangle.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\elipse.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\four_star.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\five_star.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\edticolor.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\red.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\white.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\gray.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\green.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\blue.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\black.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\yellow.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\orange.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\purple.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\pink.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\..\images\eraser.cur">
