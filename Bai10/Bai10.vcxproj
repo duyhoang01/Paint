@@ -173,6 +173,7 @@
     <Image Include="images\black.ico" />
     <Image Include="images\blue.ico" />
     <Image Include="images\color_picker.ico" />
+    <Image Include="images\diamond.ico" />
     <Image Include="images\edticolor.ico" />
     <Image Include="images\elipse.ico" />
     <Image Include="images\eraser.ico" />
@@ -190,6 +191,7 @@
     <Image Include="images\purple.ico" />
     <Image Include="images\rectangle.ico" />
     <Image Include="images\red.ico" />
+    <Image Include="images\sixstar.ico" />
     <Image Include="images\triangle.ico" />
     <Image Include="images\white.ico" />
     <Image Include="images\yellow.ico" />

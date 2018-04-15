@@ -129,6 +129,12 @@
     <Image Include="images\pink.ico">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="images\sixstar.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\diamond.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\..\images\eraser.cur">
